@@ -60,20 +60,25 @@ karmakar_abiroy-portfolio/
 - `npm` (Node Package Manager)
 
 ### From the Command Line / Terminal
-1. **Install Dependencies:**
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/abhranilsingharoy-cloud/karmakar_abiroy-portfolio.git
+   cd karmakar_abiroy-portfolio
+   ```
+2. **Install Dependencies:**
    ```bash
    npm install
    ```
-2. **Start the Development Server:**
+3. **Start the Development Server:**
    ```bash
    npm run dev
    ```
    *The server will start, typically at `http://localhost:8080`. Open this URL in your browser to view the site.*
-3. **Build for Production:**
+4. **Build for Production:**
    ```bash
    npm run build
    ```
-4. **Preview Production Build:**
+5. **Preview Production Build:**
    ```bash
    npm run preview
    ```
