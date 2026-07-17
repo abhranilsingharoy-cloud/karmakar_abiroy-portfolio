@@ -60,10 +60,15 @@ karmakar_abiroy-portfolio/
 - `npm` (Node Package Manager)
 
 ### From the Command Line / Terminal
-1. **Clone the Repository:**
+1. **Get the Code:**
+   *If you are using git, clone the repository:*
    ```bash
    git clone https://github.com/abhranilsingharoy-cloud/karmakar_abiroy-portfolio.git
    cd karmakar_abiroy-portfolio
+   ```
+   *If you downloaded the repository as a ZIP file from GitHub, extract it and navigate into the extracted folder (it usually has `-main` appended to the name):*
+   ```bash
+   cd karmakar_abiroy-portfolio-main
    ```
 2. **Install Dependencies:**
    ```bash
